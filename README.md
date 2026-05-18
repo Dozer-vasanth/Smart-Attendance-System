@@ -1,2 +1,2 @@
 # Smart-Attendance-System
-attednance system based on 5G Camera
+attendance system based on 5G Camera
